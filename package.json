@@ -1,0 +1,20 @@
+{
+  "name": "array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Array.js.js",
+  "scripts": {
+    "start": "tsc && node Array.ts",
+  "watch": "nodemon Array.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "nodemon": "^3.1.14",
+    "ts-node": "^10.9.2",
+    "typescript": "^7.0.2"
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "compileOnSave": true,
+    "compilerOption":{
+        "target":"Es2020",
+        "module": "esnext",
+        "sourceMap": false
+
+
+    }
+}
